@@ -9,7 +9,6 @@ About 10 weeks develop time
 ## Introductions activity
 - Walked around talking, discussed what made it easy and hard
 
-
 ---
 ## Break
 ---
